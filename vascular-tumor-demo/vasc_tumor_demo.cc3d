@@ -1,0 +1,5 @@
+<Simulation version="3.6.2">
+   <XMLScript Type="XMLScript">Simulation/vasc_demo.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/vasc_demo.py</PythonScript>
+   <Resource Type="Python">Simulation/vasc_demoSteppables.py</Resource>
+</Simulation>
